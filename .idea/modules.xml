@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/feign-demo.iml" filepath="$PROJECT_DIR$/feign-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restful-consumer/restful-consumer.iml" filepath="$PROJECT_DIR$/restful-consumer/restful-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restful-consumer/restful-consumer-api-definition/restful-consumer-api-definition.iml" filepath="$PROJECT_DIR$/restful-consumer/restful-consumer-api-definition/restful-consumer-api-definition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restful-consumer/restful-consumer-app/restful-consumer-app.iml" filepath="$PROJECT_DIR$/restful-consumer/restful-consumer-app/restful-consumer-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restful-provider/restful-provider.iml" filepath="$PROJECT_DIR$/restful-provider/restful-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restful-provider/restful-provider-api-definition/restful-provider-api-definition.iml" filepath="$PROJECT_DIR$/restful-provider/restful-provider-api-definition/restful-provider-api-definition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restful-provider/restful-provider-app/restful-provider-app.iml" filepath="$PROJECT_DIR$/restful-provider/restful-provider-app/restful-provider-app.iml" />
+    </modules>
+  </component>
+</project>

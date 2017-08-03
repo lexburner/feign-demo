@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="restful-consumer-api-definition" />
+        <module name="restful-consumer-app" />
+        <module name="restful-provider-api-definition" />
+        <module name="restful-provider-app" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="feign-demo" target="1.6" />
+      <module name="restful-consumer" target="1.6" />
+      <module name="restful-consumer-api-definition" target="1.6" />
+      <module name="restful-consumer-app" target="1.6" />
+      <module name="restful-provider" target="1.6" />
+      <module name="restful-provider-api-definition" target="1.6" />
+      <module name="restful-provider-app" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
